@@ -1,3 +1,7 @@
+# Python for Data Science I
+Python programming course offered at UTA fall 2023 semester
+homework submissions and classwork
+
 # Home_Work_Submission
 Please only Submit or UPLOAD ONLY your files here
 If you dont know or confused to submit your homework, Please reach out to me. 
