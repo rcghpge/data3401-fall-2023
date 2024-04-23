@@ -1,5 +1,5 @@
 # Python for Data Science I
-Python programming course offered at UTA fall 2023 semester
+Python programming course offered at UTA fall 2023 semester.
 homework submissions and classwork
 
 # Home_Work_Submission
